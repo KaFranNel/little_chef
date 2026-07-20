@@ -4,7 +4,7 @@ This repository contains the SQL scripts, database design artifacts, and project
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 The Little Chef's Library Database models relationships between:
 
